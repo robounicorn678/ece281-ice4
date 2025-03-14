@@ -1,0 +1,7 @@
+Running: xsim.dir/stoplight_fsm_tb_behav/xsimk.exe -simmode gui -wdb stoplight_fsm_tb_behav.wdb -simrunnum 0 -socket 52556
+Design successfully loaded
+Design Loading Memory Usage: 27280 KB (Peak: 27280 KB)
+Design Loading CPU Usage: 499 ms
+Simulation completed
+Simulation Memory Usage: 28368 KB (Peak: 28368 KB)
+Simulation CPU Usage: 608 ms
